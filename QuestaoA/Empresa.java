@@ -36,7 +36,7 @@ public class Empresa {
 
     @Override
     public String toString() {
-        return "\nEmpresa [Funcionario=" + Funcionario + "]";
+        return "\nEmpresa Funcionario=" + Funcionario ;
     }
 
 }

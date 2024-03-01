@@ -17,7 +17,7 @@ public class Desenvolvedor extends Funcionario{
     
 @Override
     public String toString(){
-   return "Id:" + id +"\nNome:" + nome + "\nSalario:" + this.calcularSalario();
+   return "\nId:" + id +"\nNome:" + nome + "\nSalario:" + this.calcularSalario();
     }
     
     /*
